@@ -1,0 +1,12 @@
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.exe.config
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.exe
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.pdb
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.AssemblyReference.cache
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.Form1.resources
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.Form2.resources
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.Properties.Resources.resources
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.GenerateResource.cache
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.exe
+C:\Users\Baole\source\repos\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.pdb
